@@ -90,11 +90,11 @@ p {
   text-align: justify;
 }
 .text-sec {
-  opacity: 0;
+  /* opacity: 0; */
   padding-left: 10%;
   padding-right: 10%;
   padding-bottom: 30px;
-  background-color: #174957;
+  /* background-color: #174957; */
   color: white;
 }
 
